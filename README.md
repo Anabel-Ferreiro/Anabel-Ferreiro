@@ -24,3 +24,4 @@ meaningful business outcomes.
 
 ## 📫 Let's Connect
 Feel free to explore my repositories as I build projects throughout my studies!
+- [LinkedIn](https://www.linkedin.com/in/anabel-ferreiro)
