@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anabel Ferreiro Perez 👋
 
-<!--
-**Anabel-Ferreiro/Anabel-Ferreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Analytics & Information Systems student at the University of South Florida (USF), 
+with a concentration in cybersecurity. I'm passionate about using data to solve real-world problems 
+and building my skills at the intersection of analytics, AI, and technology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Interests
+- Business Analytics & Information Systems
+- Cybersecurity
+- Data-driven decision making
+- Artificial Intelligence & Machine Learning
+
+## 💼 Career Goals
+I'm interested in pursuing roles in data analytics, AI strategy, and fintech after graduation. 
+My goal is to work on projects that leverage data and emerging technologies to drive 
+meaningful business outcomes.
+
+## 🛠️ Technical Skills & Tools
+- **Languages:** Python, SQL
+- **Cloud & AI:** Google Cloud (Vertex AI), AWS (AI Practitioner certified)
+- **Tools:** Tableau, Excel, VS Code
+- **Currently learning:** Web development fundamentals, GitHub workflows
+
+## 📫 Let's Connect
+Feel free to explore my repositories as I build projects throughout my studies!
